@@ -24,6 +24,6 @@
   - **Line Plot** ของ intensity profile (แถวกลางของภาพ) 
 
   ## Demo
-ภาพแสดงการประมวลผลและ Histogram  
+    ภาพแสดงการประมวลผลและ Histogram  
 
-![Demo Screenshot](images/demo.png)
+![Demo Screenshot](images/Demo.png)
