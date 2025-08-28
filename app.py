@@ -51,7 +51,7 @@ if img is not None:
     with col1:
         st.image(processed, caption="Processed Image", use_column_width=True)
     with col2:
-        st.subheader("📊 Data Visualization")
+        st.subheader("Data Visualization")
 
         # เลือกประเภทกราฟ
         chart_type = st.selectbox("เลือกประเภทกราฟ", [
